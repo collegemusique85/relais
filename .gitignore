@@ -1,0 +1,7 @@
+# Aucune donnée réelle dans ce dépôt
+*.csv
+*.xlsx
+*.xls
+*.pdf
+.env
+.DS_Store
